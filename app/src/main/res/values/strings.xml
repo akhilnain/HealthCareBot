@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthCareBot</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="here_s_what_i_understood">Here\'s what I understood:</string>
+    <string name="yes_go_on">Yes, go on</string>
+    <string name="no_add_more">No, add more</string>
+</resources>
